@@ -1,0 +1,48 @@
+
+.btn{
+    padding: 30px 100px;
+    width: 50px;
+    color: rgb(80, 122, 79);
+    background: rgb(255, 255, 255);
+    border: 0px solid black;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none ;
+    cursor: pointer ;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+   
+
+
+}
+
+.btn:hover{
+    background-color: rgb(84, 160, 96);
+    transition: background 1s;
+
+}
+
+.btn2{
+    padding: 15px;
+    background-color: rgb(61, 109, 198);
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;
+    position: relative ;
+    left: 1700px;
+    bottom:20px;
+    
+}
+
+.btn2:hover{
+    background-color: rgb(195, 195, 195);
+    transition: background 1s;
+}
